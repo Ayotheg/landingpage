@@ -1,0 +1,2 @@
+Landing Page is a project I built based on an inspiring design I came across. This responsive and visually striking page was crafted to capture attention and provide a seamless user experience. By incorporating modern web design principles, the page effectively communicates the message, while keeping the user engaged through its clean layout and smooth functionality. Whether for a product launch, service offering, or event, this landing page is optimized for performance and conversion.
+Link: https://ayotheg.github.io/landingpage/
